@@ -1,0 +1,14 @@
+.icons{
+    display: flex;
+    width: 200px;
+    height: 24px;
+    justify-content: space-between;
+    /* border: 1px solid black; */
+    align-items: center;
+}
+/* .logo-container{
+    display: flex;
+    gap: 20px;
+    height: 14px;
+    width: 14px;
+} */

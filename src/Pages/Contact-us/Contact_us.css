@@ -1,0 +1,10 @@
+
+.pages{
+    background-color: rgba(249, 245, 239, 0.8); 
+    background-image: url('/assets/Img/Graph Pattern.png');
+    background-size: cover;
+    height: 675px;
+    width: 1500px;
+    background-blend-mode: multiply;
+    margin: 0 auto;
+}
